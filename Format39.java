@@ -29,5 +29,10 @@ public class Format39 {
 
 }
 /*Sample Output:
-
+Enter n value : 5
+    A
+   BAB
+  CBABC
+ DCBABCD
+EDCBABCDE
 */
