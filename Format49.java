@@ -1,7 +1,5 @@
 package formats;
-
 import java.util.Scanner;
-
 public class Format49 {
 
 	public static void main(String[] args) {
@@ -21,5 +19,14 @@ public class Format49 {
 
 }
 /*Sample Output:
-
+Enter n value : 4
+4 
+3 4 
+2 3 4 
+1 2 3 4 
+0 1 2 3 4 
+1 2 3 4 
+2 3 4 
+3 4 
+4 
 */
