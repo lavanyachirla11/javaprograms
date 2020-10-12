@@ -20,5 +20,12 @@ public class Format50 {
 
 }
 /*Sample Output:
-
+Enter n value : 3
+D 
+C D 
+B C D 
+A B C D 
+B C D 
+C D 
+D 
 */
