@@ -21,3 +21,14 @@ public class Format23 {
 	}
 
 }
+
+/*Sample Output:
+Enter n value : 6
+1 * 
+2 * * 
+3 * * * 
+4 * * * * 
+5 * * * * * 
+6 * * * * * * 
+
+*/
