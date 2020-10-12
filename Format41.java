@@ -28,3 +28,12 @@ public class Format41 {
 	}
 
 }
+/* Sample output:
+Enter n value : 5
+*********
+ *******
+  *****
+   ***
+    *
+ 
+*/
