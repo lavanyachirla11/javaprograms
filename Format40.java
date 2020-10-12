@@ -32,5 +32,10 @@ public class Format40 {
 
 }
 /*Sample Output:
+Enter n value : 4
+   1
+  121
+ 21312
+3214123
 
 */
