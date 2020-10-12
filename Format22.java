@@ -23,9 +23,9 @@ public class Format22 {
 }
 /*Sample Output-
 Enter n value : 5
-    *
-   **
-  ***
- ****
 *****
+ ****
+  ***
+   **
+    *
 */
