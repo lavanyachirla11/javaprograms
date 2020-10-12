@@ -19,3 +19,12 @@ public class Format15 {
 	}
 
 }
+/*Sample output
+--------------------
+Enter n value : 5
+12345
+1234
+123
+12
+1
+*/
