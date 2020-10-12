@@ -26,4 +26,10 @@ public class Format35 {
 
 }
 /*Sample Output:
+Enter n value : 5
+    1
+   321
+  54321
+ 7654321
+987654321
  */
