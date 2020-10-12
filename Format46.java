@@ -1,7 +1,5 @@
 package formats;
-
 import java.util.Scanner;
-
 public class Format46 {
 
 	public static void main(String[] args) {
@@ -31,7 +29,12 @@ public class Format46 {
 
 }
 /*Sample Output:
-
+Enter n value : 5
+ABCDEFGHI
+ ABCDEFG
+  ABCDE
+   ABC
+    A
 
  */
 
