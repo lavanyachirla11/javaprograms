@@ -1,7 +1,5 @@
 package formats;
-
 import java.util.Scanner;
-
 public class Format44 {
 
 	public static void main(String[] args) {
@@ -33,10 +31,10 @@ public class Format44 {
 }
 /*Sample Output:
 Enter n value : 5
-999999999
- 7777777
-  55555
-   333
+123456789
+ 1234567
+  12345
+   123
     1
 
 */
