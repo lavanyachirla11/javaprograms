@@ -35,6 +35,7 @@ Enter n value : 5
 
 
 */
+/*Method2
 
 package formats;
 import java.util.Scanner;
@@ -62,3 +63,4 @@ public class Format69 {
 	}
 
 }
+*/
