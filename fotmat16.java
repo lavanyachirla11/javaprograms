@@ -1,6 +1,6 @@
 package formats;
 import java.util.*;
-public class format16 {
+public class Format16 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
